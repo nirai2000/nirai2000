@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nirai2000
-- 👀 I’m interested in Programming
 - 🌱 I’m currently learning on Data Science(Machine learning,python,Deep Learning)
 - 💞️ I’m looking to collaborate on python,Ml
 - 📫 How to reach me@niraimad2001@gmail.com
